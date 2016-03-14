@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" parallel="tests" thread-count="5" verbose="1" preserve-order="false">
+    <test name="test1">     <!-- tests methods classes -->
+        <classes>
+            <class name="com.webdriver.LoadAsk"/>
+            <class name="com.webdriver.LoadBing"/>
+            <class name="com.webdriver.LoadGoogle"/>
+            <class name="com.webdriver.LoadYahoo"/>
+        </classes>
+    </test>
+</suite>
