@@ -10,15 +10,15 @@ import static org.junit.Assert.assertThat;
 
 public class LoadAsk {
 
-    private WebDriver driver;
+    private static WebDriver driver;
 
-    @BeforeClass
-    public void createDriver(){
+    @org.junit.BeforeClass
+    public static void createDriver(){
         driver = new FirefoxDriver();
         driver.get("Http://www.ask.com");
     }
 
-    @Test
+    @org.junit.Test
     public void navigateTo(){
 
         try{
@@ -27,8 +27,8 @@ public class LoadAsk {
         }
     }
 
-    @AfterClass
-    public void closeBrowser(){
+    @org.junit.AfterClass
+    public static void closeBrowser(){
         driver.quit();
     }
 }
