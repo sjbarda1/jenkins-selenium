@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="897eb2a8-21bb-4d1f-a5b1-15f616d990cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadAsk.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadAsk.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadBing.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadBing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadGoogle.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadGoogle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadYahoo.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadYahoo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="897eb2a8-21bb-4d1f-a5b1-15f616d990cf" name="Default" comment="" />
     <ignored path="jenkinsselenium.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
