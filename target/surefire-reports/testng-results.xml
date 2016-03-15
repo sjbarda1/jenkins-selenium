@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="30951" started-at="2016-03-15T02:11:00Z" finished-at="2016-03-15T02:11:31Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="30951" started-at="2016-03-15T02:11:00Z" finished-at="2016-03-15T02:11:31Z">
+      <class name="com.webdriver.LoadYahoo">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadYahoo)]" name="navigateTo" duration-ms="3742" started-at="2016-03-14T20:11:27Z" finished-at="2016-03-14T20:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+      </class> <!-- com.webdriver.LoadYahoo -->
+      <class name="com.webdriver.LoadBing">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadBing)]" name="navigateTo" duration-ms="2004" started-at="2016-03-14T20:11:12Z" finished-at="2016-03-14T20:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+      </class> <!-- com.webdriver.LoadBing -->
+      <class name="com.webdriver.LoadGoogle">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadGoogle)]" name="navigateTo" duration-ms="2119" started-at="2016-03-14T20:11:19Z" finished-at="2016-03-14T20:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+      </class> <!-- com.webdriver.LoadGoogle -->
+      <class name="com.webdriver.LoadAsk">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadAsk)]" name="navigateTo" duration-ms="2007" started-at="2016-03-14T20:11:07Z" finished-at="2016-03-14T20:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+      </class> <!-- com.webdriver.LoadAsk -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

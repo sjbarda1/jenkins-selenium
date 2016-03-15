@@ -7,11 +7,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadGoogle.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadGoogle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadYahoo.class" afterPath="$PROJECT_DIR$/target/test-classes/com/webdriver/LoadYahoo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadAsk.java" afterPath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadAsk.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadBing.java" afterPath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadBing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadGoogle.java" afterPath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadGoogle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadYahoo.java" afterPath="$PROJECT_DIR$/src/test/java/com/webdriver/LoadYahoo.java" />
     </list>
     <ignored path="jenkinsselenium.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +31,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16334662">
-              <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.37250996">
+              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -669,6 +664,13 @@
       <option name="number" value="Default" />
       <updated>1457904696733</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding junit and pom updates">
+      <created>1458008073152</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1458008073152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -730,6 +732,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding junit and pom updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding junit and pom updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -869,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16334662">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.37250996">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
           <folding />
         </state>
       </provider>
