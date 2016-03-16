@@ -70,11 +70,9 @@
 
         <profile>
             <id>jenkinstests</id>
-            <!--
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
-            -->
             <build>
                 <plugins>
                     <plugin>
