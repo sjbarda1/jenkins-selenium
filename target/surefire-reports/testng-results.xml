@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="33853" started-at="2016-03-16T01:01:56Z" finished-at="2016-03-16T01:02:30Z">
+  <suite name="Surefire suite" duration-ms="38548" started-at="2016-03-16T02:59:20Z" finished-at="2016-03-16T02:59:59Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="33853" started-at="2016-03-16T01:01:56Z" finished-at="2016-03-16T01:02:30Z">
+    <test name="Surefire test" duration-ms="38548" started-at="2016-03-16T02:59:20Z" finished-at="2016-03-16T02:59:59Z">
       <class name="com.webdriver.LoadYahoo">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadYahoo)]" name="navigateTo" duration-ms="4325" started-at="2016-03-15T19:02:25Z" finished-at="2016-03-15T19:02:30Z">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadYahoo)]" name="navigateTo" duration-ms="3941" started-at="2016-03-15T20:59:54Z" finished-at="2016-03-15T20:59:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
       </class> <!-- com.webdriver.LoadYahoo -->
       <class name="com.webdriver.LoadBing">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadBing)]" name="navigateTo" duration-ms="2002" started-at="2016-03-15T19:02:08Z" finished-at="2016-03-15T19:02:10Z">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadBing)]" name="navigateTo" duration-ms="2001" started-at="2016-03-15T20:59:35Z" finished-at="2016-03-15T20:59:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
       </class> <!-- com.webdriver.LoadBing -->
       <class name="com.webdriver.LoadGoogle">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadGoogle)]" name="navigateTo" duration-ms="2118" started-at="2016-03-15T19:02:14Z" finished-at="2016-03-15T19:02:17Z">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadGoogle)]" name="navigateTo" duration-ms="2116" started-at="2016-03-15T20:59:42Z" finished-at="2016-03-15T20:59:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
       </class> <!-- com.webdriver.LoadGoogle -->
       <class name="com.webdriver.LoadAsk">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadAsk)]" name="navigateTo" duration-ms="2005" started-at="2016-03-15T19:02:02Z" finished-at="2016-03-15T19:02:04Z">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadAsk)]" name="navigateTo" duration-ms="2006" started-at="2016-03-15T20:59:30Z" finished-at="2016-03-15T20:59:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
