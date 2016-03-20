@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="38548" started-at="2016-03-16T02:59:20Z" finished-at="2016-03-16T02:59:59Z">
+  <suite name="Surefire suite" duration-ms="18596" started-at="2016-03-20T19:27:21Z" finished-at="2016-03-20T19:27:40Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="38548" started-at="2016-03-16T02:59:20Z" finished-at="2016-03-16T02:59:59Z">
-      <class name="com.webdriver.LoadYahoo">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadYahoo)]" name="navigateTo" duration-ms="3941" started-at="2016-03-15T20:59:54Z" finished-at="2016-03-15T20:59:58Z">
+    <test name="Surefire test" duration-ms="18596" started-at="2016-03-20T19:27:21Z" finished-at="2016-03-20T19:27:40Z">
+      <class name="com.webdriver.LoadJenkins">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadJenkins)]" name="navigateTo" duration-ms="2014" started-at="2016-03-20T13:27:32Z" finished-at="2016-03-20T13:27:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
-      </class> <!-- com.webdriver.LoadYahoo -->
-      <class name="com.webdriver.LoadBing">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadBing)]" name="navigateTo" duration-ms="2001" started-at="2016-03-15T20:59:35Z" finished-at="2016-03-15T20:59:37Z">
+      </class> <!-- com.webdriver.LoadJenkins -->
+      <class name="com.webdriver.LoadSeleniumHQ">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadSeleniumHQ)]" name="navigateTo" duration-ms="2018" started-at="2016-03-20T13:27:26Z" finished-at="2016-03-20T13:27:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
-      </class> <!-- com.webdriver.LoadBing -->
-      <class name="com.webdriver.LoadGoogle">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadGoogle)]" name="navigateTo" duration-ms="2116" started-at="2016-03-15T20:59:42Z" finished-at="2016-03-15T20:59:44Z">
+      </class> <!-- com.webdriver.LoadSeleniumHQ -->
+      <class name="com.webdriver.LoadWebcrawler">
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadWebcrawler)]" name="navigateTo" duration-ms="2017" started-at="2016-03-20T13:27:38Z" finished-at="2016-03-20T13:27:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigateTo -->
-      </class> <!-- com.webdriver.LoadGoogle -->
-      <class name="com.webdriver.LoadAsk">
-        <test-method status="PASS" signature="navigateTo()[pri:0, instance:navigateTo(com.webdriver.LoadAsk)]" name="navigateTo" duration-ms="2006" started-at="2016-03-15T20:59:30Z" finished-at="2016-03-15T20:59:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- navigateTo -->
-      </class> <!-- com.webdriver.LoadAsk -->
+      </class> <!-- com.webdriver.LoadWebcrawler -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>

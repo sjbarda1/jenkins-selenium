@@ -7,20 +7,21 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
+import static org.junit.Assert.assertTrue;
 
-public class LoadYahoo {
+public class LoadSeleniumHQ {
 
     private static WebDriver driver;
 
     @org.junit.BeforeClass
     public static void createDriver(){
         driver = new FirefoxDriver();
-        driver.get("Http://www.yahoo.com");
+        driver.get("Http://www.seleniumhq.org");
     }
 
     @org.junit.Test
     public void navigateTo(){
-        assertThat(driver.getTitle(), is("Yahoo"));
+        assertTrue(driver.getTitle().contains("Selenium"));
 
         try{
             Thread.sleep(2000);
